@@ -4,13 +4,12 @@ import { motion } from "framer-motion";
 import {
   slideInFromLeft,
   slideInFromRight,
-  slideInFromTop,
 } from "@/app/utils/motion";
 
 import Image from "next/image";
 import iconImage from "../../../../public/images/mainIconsdark.svg";
 import herologo from "../../../../public/images/herologo.png";
-import { url } from "inspector";
+
 
 const hero = () => {
   return (
