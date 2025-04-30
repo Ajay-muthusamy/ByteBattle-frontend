@@ -29,7 +29,7 @@ const homecontent = () => {
               </span>
             </h1>
             <h1 className=" pop text-center">
-              <span className="text-2xl text-amber-300">Byte Battle </span>is an
+              <span className="text-2xl text-amber-300">{`Byte Battle`}</span>is an
               interactive coding platform designed to make learning HTML, CSS,
               and JavaScript feel like a game. It offers daily coding tasks and
               challenges that focus on essential front-end skills like Flexbox,
