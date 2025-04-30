@@ -42,7 +42,7 @@ const hero = () => {
             className="text-lg text-gray-400 my-5 max-w-[600px]"
           >
             Test your skills, learn new concepts, and grow with every keystroke.
-            <p>It&apos;s not just practice — it&apos;s progress.</p>
+            <p>Its not just practice — its progress.</p>
           </motion.p>
 
           <motion.a
