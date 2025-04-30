@@ -24,8 +24,8 @@ const homecontent = () => {
             <h1 className="text-4xl cursive mb-10">
               what is
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-                {" "}
-                Byte Battle ?{" "}
+            
+                Byte Battle ?
               </span>
             </h1>
             <h1 className=" pop text-center">
@@ -36,7 +36,7 @@ const homecontent = () => {
               Grid, and layout techniques, encouraging users to level up their
               abilities. With a playful, gamified environment, users can tackle
               real-world coding problems while receiving immediate feedback and
-              rewards. It's an engaging way to practice and improve coding
+              rewards. Its an engaging way to practice and improve coding
               skills through hands-on, real-time coding tasks, making the
               learning process both fun and motivating.
             </h1>
